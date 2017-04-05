@@ -6,8 +6,7 @@ Sample Input to the function in the R script
 res <- getResult("grapes","Clay and silt", 1022, 29, 55, 2003)
 res
 
-Sample Result
-> ### Sample data result ->
+### Sample data result ->
 > res <- getResult("grapes","Clay and silt", 1022, 29, 55, 2003)
 > res
       ct            st  ism  iam iat iut ih  is      moistdev tempdev    humdev   saldev
